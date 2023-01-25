@@ -16,6 +16,7 @@
   </div>
    <img align="right" alt="Grazi-pic" height="200" style="border-radius:50px;" src="https://i.ibb.co/4PGnCcX/avatarpqpng.png">
   
+  </div>
   <div style="display: inline_block"><br>
   
   ## Main skills:
