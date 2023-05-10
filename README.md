@@ -4,7 +4,7 @@
 
   <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Graziele-Miranda&show_icons=true&count_private=true&hide_border=true&title_color=D0C5EF&icon_color=9796f0&text_color=fbc7d4&bg_color=0d1117" alt="Graziele L. Miranda github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Graziele-Miranda&layout=compact&hide_border=true&title_color=D0C5EF&icon_color=9796f0&text_color=fbc7d4&bg_color=0d1117" />
+ <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Graziele-Miranda&layout=compact&bg_color=0d1117&text_color=fbc7d4&title_color=D0C5EF&icon_color=9796f0&hide_border=true" />
 </div>
   
 </div>
