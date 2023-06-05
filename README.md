@@ -1,6 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:9796f0,100:fbc7d4&height=150&section=header&text=Graziele%20L.%20Miranda&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=%20%&descAlignY=50">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9796f0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Graziele+Lima+Miranda;I'm+27+years+old;I'm+from+Brazil;Systems+Analysis+and+Development+Student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
   <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Graziele-Miranda&show_icons=true&count_private=true&hide_border=true&title_color=D0C5EF&icon_color=9796f0&text_color=b0c4de&bg_color=0d1117" alt="Graziele L. Miranda github stats" /> 
